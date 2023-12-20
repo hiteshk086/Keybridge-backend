@@ -1,0 +1,8 @@
+taskbackend/task/TaskApplication.class
+taskbackend/task/Controller/taskController.class
+taskbackend/task/Entity/TaskEntity$TaskEntityBuilder.class
+taskbackend/task/Services/fileUpload.class
+taskbackend/task/Entity/TaskEntity.class
+taskbackend/task/Services/FileService.class
+taskbackend/task/Repository/taskRepository.class
+taskbackend/task/Services/imple/FileServiceImpl.class
